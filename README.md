@@ -25,7 +25,7 @@
 
 *(This is where the magic (and sometimes the madness) happens!)*
 
-* **Languages:** JavaScript, PHP, HTML5, CSS3]
+* **Languages:** JavaScript, PHP, HTML5, CSS3
 * **Frameworks/Libraries:** Vue.js, Node.js, .NET
 * **Databases:** MySQL
 * **Tools & Platforms:** Git, GitHub, VS Code, Canva, Figma, Wordpress, CPanel
