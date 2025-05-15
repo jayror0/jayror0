@@ -37,7 +37,7 @@
   <em>More projects are brewing... or at least, the coffee for them is.</em>
 </p>
 
-## 📫 Let's Connect / Hire Me (Pretty Please?)
+## 📫 Let's Connect
 
 I'm always up for a chat, a challenge, or a chance to learn something new. You can find me here:
 
