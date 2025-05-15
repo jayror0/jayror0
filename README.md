@@ -8,8 +8,7 @@
 
 <p align="center">
   <em>A Bachelor of Science in Information Technology student by day, aspiring code whisperer by night.</em> <br />
-  <em>Currently navigating the complex world of ones and zeros, fueled by coffee</em> <br />
-  <em>My mission: to write code that my future self won't curse me for. (It's a work in progress.)</em>
+  <em>Currently navigating the complex world of ones and zeros, fueled by coffee</em>
 </p>
 
 ## 🤔 About Me
