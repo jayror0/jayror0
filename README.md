@@ -35,8 +35,8 @@
 
 I'm always up for a chat, a challenge, or a chance to learn something new. You can find me here:
 
-* **LinkedIn:** https://www.linkedin.com/in/jayro-gomba-8a7056365/ - Let's get professionally awkward!
-* **Email:** jysngoomba.rbn@gmail.com - For serious inquiries, or if you've found a bug in my life's code.
+* **LinkedIn:** https://www.linkedin.com/in/jayro-gomba-8a7056365/
+* **Email:** jysngoomba.rbn@gmail.com
 * **Portfolio/Website:** https://portfolio-brown-tau-59.vercel.app/
 
 <p align="center">
