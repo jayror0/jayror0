@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5ncWZ1dDdrYmhsNzE2MGh1YnIwbDVqMHM5b3Zsc2xxMGZubWN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqwzq0LoZOfLqqJZ0b/giphy.gif" alt="dvd" width="820" height="200"/>
-</p>
-
 <h1 align="center">
   Hi, I'm Jayro! 👋
 </h1>
