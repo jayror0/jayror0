@@ -9,12 +9,10 @@
 
 ## 🤔 About Me
 
-* 🎓 I'm currently a **BSIT student** at []. My brain is an IDE that's constantly compiling (and occasionally crashing).
+* 🎓 Currently a **BSIT student** at SPIST.
 * 💻 I love diving into new technologies and figuring out how they tick. Sometimes they tick like a time bomb, but that's part of the fun, right?
 * 💡 My goal is to build things that are both functional and, dare I say, enjoyable to use. Or at least, things that don't make users want to throw their devices out the window.
-* 🌱 I'm currently learning Vue.js, node.js, other database, cloud Computing with AWS. My learning curve often looks like a rollercoaster designed by a caffeine-addicted squirrel.
-  
-* ⚡ Fun fact: I can explain a recursive function, but I still get lost in my own house sometimes.
+* 🌱 I'm currently learning into Vue.js, node.js, other database. My learning curve often looks like a rollercoaster designed by a caffeine-addicted squirrel.
 
 ## 🛠️ My Tech Stack & Tools
 
