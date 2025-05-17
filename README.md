@@ -23,6 +23,12 @@
 * **Databases:** MySQL
 * **Tools & Platforms:** Git, GitHub, VS Code, Canva, Figma, Wordpress, CPanel
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=radical" alt="jayror0's GitHub stats" />
+</p>
+
 ## ✨ My Humble Brags (aka Projects)
 
 *(Here are a few things I've managed to build without causing a global internet outage... yet.)*
