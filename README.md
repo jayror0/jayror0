@@ -22,7 +22,7 @@
 
 ## ✨ My Humble Brags (aka Projects)
 <p align="left">
-  <a href="https://www.linkedin.com/in/jayro-gomba-8a7056365/" target="_blank">
+  <a href="https://placehub.bsit3a2025.com/" target="_blank">
     🏠 Placehub rental System
   </a>
   <br>
