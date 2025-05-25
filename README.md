@@ -15,8 +15,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=radical" alt="jayror0's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayror0&layout=compact&theme=radical" alt="jayror0's most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="jayror0's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayror0&layout=compact&theme=radical&cache_seconds=1800" alt="jayror0's most used languages" />
 </p>
 
 ## ✨ My Humble Brags (aka Projects)
