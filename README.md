@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://portfolio-brown-tau-59.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
