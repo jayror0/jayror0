@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>BSIT Student @ SPIST | Aspiring Code Whisperer</em>
+  <em>BSIT Student @ SPIST | Aspiring Web Developer</em>
   <br>
   <img src="https://img.shields.io/badge/Coffee-Fueled-%2332a852?style=flat-square&logo=buy-me-a-coffee&logoColor=white">
 </p>
