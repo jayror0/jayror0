@@ -38,8 +38,11 @@
 ---
 
 ## 📊 GitHub Stats
-![jayror0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=radical)
+
 ![jayror0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayror0&layout=compact&theme=default)
+
 ![GitHub followers](https://img.shields.io/github/followers/jayror0?label=Follow&style=social)
 
 ---
