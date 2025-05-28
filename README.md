@@ -39,9 +39,9 @@
 
 ## 📊 GitHub Stats
 
-![jayror0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=default)
+![jayror0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayror0&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayror0&layout=compact&theme=vue-dark)
 
 ![GitHub followers](https://img.shields.io/github/followers/jayror0?label=Follow&style=social)
 
