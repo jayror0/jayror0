@@ -19,9 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 BSIT student at SPIST
