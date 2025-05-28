@@ -33,6 +33,7 @@
 ## 🚀 Projects
 
 - <a href="https://placehub.bsit3a2025.com/" target="_blank"><img src="https://img.shields.io/badge/Placehub%20Rental%20System-222?style=flat-square&logo=vercel&logoColor=white" alt="Placehub Rental System"/></a>
+- <a href="https://access-department-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Placehub%20Rental%20System-222?style=flat-square&logo=vercel&logoColor=white" alt="Placehub Rental System"/></a>
 - <a href="https://portfolio-brown-tau-59.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=folder&logoColor=white" alt="Portfolio"/></a>
 
 ---
