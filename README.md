@@ -57,6 +57,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
   </a>
   <a href="https://portfolio-brown-tau-59.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32"/>
+    <img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=folder&logoColor=white" alt="Portfolio width="32"/>
   </a>
 </p>
