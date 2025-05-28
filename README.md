@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![jayror0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=vue-dark)
 
