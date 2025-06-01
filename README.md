@@ -24,7 +24,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BSIT student at SPIST
 - 🌱 Learning: Vue.js, Node.js, Mongo Databases
 - 🤝 I’m looking to collaborate on Open Source
 
