@@ -31,21 +31,32 @@
 
 ## 🚀 Projects
 
-- <a href="https://placehub.bsit3a2025.com/" target="_blank"><img src="https://img.shields.io/badge/Placehub%20Rental%20System-222?style=flat-square&logo=vercel&logoColor=white" alt="Placehub Rental System"/></a>
-- <a href="https://access-department-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Organization%20Page-222?style=flat-square&logo=vercel&logoColor=white" alt="Placehub Rental System"/></a>
-- <a href="https://portfolio-brown-tau-59.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=folder&logoColor=white" alt="Portfolio"/></a>
+ <a href="https://placehub.bsit3a2025.com/" target="_blank">
+   <img src="https://img.shields.io/badge/Placehub%20Rental%20System-222?style=flat-square&logoColor=white" alt="Placehub Rental System" height="25"/>
+ </a>
+ <a href="https://access-department-theta.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/Organization%20Page-222?style=flat-square&logoColor=white" alt="Placehub Rental System" height="25"/>
+ </a>
 
 ---
 
 ## 📊 Stats
 
-![jayror0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=vue-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayror0&layout=compact&theme=vue-dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jayror0&theme=default)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=jayror0)  ![GitHub followers](https://img.shields.io/github/followers/jayror0?label=Follow&style=social)
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jayror0&show_icons=true&theme=vue-dark" alt="GitHub Stats" height="180">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayror0&layout=compact&theme=vue-dark" alt="Top Languages" height="180">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com?user=jayror0&theme=default" alt="GitHub Streak" height="180">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,4 +69,9 @@
   <a href="mailto:jysngoomba.rbn@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="30" border="0" />
   </a>
+</p>
+
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=jayror0" alt="Profile Views"/> 
+  <img src="https://img.shields.io/github/followers/jayror0?label=Follow&style=social" alt="GitHub Followers"/> 
 </p>
