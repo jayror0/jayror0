@@ -2,9 +2,6 @@
   Hi, I'm Jayson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
-
-![](https://komarev.com/ghpvc/?username=jayror0)
-
 <p align="center">
   <em>BSIT Student @ SPIST | Aspiring Web Developer</em>
   <br>
@@ -47,6 +44,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayror0&layout=compact&theme=vue-dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jayror0&theme=default)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=jayror0)
 
 ![GitHub followers](https://img.shields.io/github/followers/jayror0?label=Follow&style=social)
 
