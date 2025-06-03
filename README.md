@@ -50,14 +50,12 @@
 
 
 ---
-<a href="https://qwe" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="qwe" height="30" width="40" />
-</a>
+
 ## 📫 Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jayro-gomba-8a7056365/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-original.svg" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Social/linkedin-original.svg" height="30" width="40"/>
   </a>
   <a href="mailto:jysngoomba.rbn@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40"/>
