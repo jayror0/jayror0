@@ -6,8 +6,6 @@
 <p>
 
 
-</br>
-
 ## 👨‍💻 About Me
 
 - 🌱 Learning: Vue.js, React, Node.js, NOSQL Databases
