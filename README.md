@@ -53,6 +53,8 @@
 
 ## 📫 Connect
 <p align="left">
+
+  <a href="https://qwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="qwe" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/jayro-gomba-8a7056365/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
   </a>
