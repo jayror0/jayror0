@@ -58,7 +58,6 @@
   </tr>
 </table>
 
----
 
 ## 🤝 Connect
 
