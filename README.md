@@ -52,8 +52,7 @@
 ---
 
 ## 📫 Connect
-
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/jayro-gomba-8a7056365/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
   </a>
