@@ -47,8 +47,6 @@
 
 ![](https://komarev.com/ghpvc/?username=jayror0)  ![GitHub followers](https://img.shields.io/github/followers/jayror0?label=Follow&style=social)
 
-
-
 ---
 
 ## 📫 Connect
