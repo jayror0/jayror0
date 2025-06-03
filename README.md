@@ -1,44 +1,21 @@
 <h1 align="center">
   Hi, I'm Jayson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
-
 <p align="center">
-  <em>BSIT Student @ SPIST | Aspiring Web Developer</em>
-  <br>
-  <img src="https://img.shields.io/badge/Coffee-Fueled-%2332a852?style=flat-square&logo=buy-me-a-coffee&logoColor=white">
-</p>
+<img src="https://img.shields.io/badge/Coffee-Fueled-%2332a852?style=flat-square&logo=buy-me-a-coffee&logoColor=white">
+<p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayro-gomba-8a7056365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jysngoomba.rbn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://portfolio-brown-tau-59.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
 
----
+</br>
 
 ## 👨‍💻 About Me
 
-- 🌱 Learning: Vue.js, Node.js, Mongo Databases
-- 🤝 I’m looking to collaborate on Open Source
+- 🌱 Learning: Vue.js, React, Node.js, NOSQL Databases
+- 🌍 I’m looking to collaborate on Open Source
+- 📫 How to reach me **jysngmb.rbn@gmail.com**
+- 🗃️ All of my projects are available at [Repositories](https://github.com/jayror0?tab=repositories)
 
----
-
-## 🚀 Projects
-
- <a href="https://placehub.bsit3a2025.com/" target="_blank">
-   <img src="https://img.shields.io/badge/Placehub%20Rental%20System-222?style=flat-square&logoColor=white" alt="Placehub Rental System" height="25"/>
- </a>
- <a href="https://access-department-theta.vercel.app/" target="_blank">
-   <img src="https://img.shields.io/badge/Organization%20Page-222?style=flat-square&logoColor=white" alt="Placehub Rental System" height="25"/>
- </a>
-
----
+</br>
 
 ## 📊 Stats
 
@@ -57,7 +34,6 @@
     </td>
   </tr>
 </table>
-
 
 ## 🤝 Connect
 
