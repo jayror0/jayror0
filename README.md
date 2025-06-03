@@ -55,12 +55,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jayro-gomba-8a7056365/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Social/linkedin-original.svg" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:jysngoomba.rbn@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
   <a href="https://portfolio-brown-tau-59.vercel.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=folder&logoColor=white" alt="Portfolio height="30" width="40"/>
+    <img align="center" src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=folder&logoColor=white" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
