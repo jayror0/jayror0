@@ -45,9 +45,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jayror0&theme=default)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=jayror0)
-
-![GitHub followers](https://img.shields.io/github/followers/jayror0?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=jayror0)  ![GitHub followers](https://img.shields.io/github/followers/jayror0?label=Follow&style=social)
 
 
 
