@@ -1,19 +1,31 @@
-<h1 align="center">
-  Hi, I'm Jayson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-</h1>
+<div align="center">
+
+# Hi, I'm Jayson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
+
 <p align="center">
 <img src="https://img.shields.io/badge/Coffee-Fueled-%2332a852?style=flat-square&logo=buy-me-a-coffee&logoColor=white">
 <p>
+</div>
 
+## 🙋‍♂️ About Me
 
-## 👨‍💻 About Me
-
-- 🌱 Learning: Vue.js, React, Node.js, NOSQL Databases
-- 🌍 I’m looking to collaborate on Open Source
-- 📫 How to reach me **jysngmb.rbn@gmail.com**
+- 🌱 learning **AI Automations**, **Vue.js**, **React**, **Nuxt.js**, **NoSQL Databases**
+- 🤝 Open to collaborating on **Open Source** projects  
+- 📧 How to reach me **jysngmb.rbn@gmail.com**
 - 🗃️ All of my projects are available at [Repositories](https://github.com/jayror0?tab=repositories)
 
-</br>
+<details>
+<summary><b>🎯 2025 Goals</b></summary>
+<br>
+
+- Master Vue.js ecosystem & typescript
+- Build production Node.js apps
+- Learn advanced database design
+- Deep learning System Architecture
+
+</details>
+
+---
 
 ## 📊 Stats
 
@@ -32,6 +44,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ## 🤝 Connect
 
