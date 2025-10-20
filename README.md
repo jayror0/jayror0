@@ -9,21 +9,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 learning **AI Automations**, **Vue.js**, **React**, **Nuxt.js**, **NoSQL Databases**
+- 🌱 learning **AI Automations**, **Vue.js**, **php**, **NoSQL Databases**
 - 🤝 Open to collaborating on **Open Source** projects  
 - 📧 How to reach me **jysngmb.rbn@gmail.com**
 - 🗃️ All of my projects are available at [Repositories](https://github.com/jayror0?tab=repositories)
-
-<details>
-<summary><b>🎯 2025 Goals</b></summary>
-<br>
-
-- Master Vue.js ecosystem & typescript
-- Build production Node.js apps
-- Learn advanced database design
-- Deep learning System Architecture
-
-</details>
 
 ---
 
